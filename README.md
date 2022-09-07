@@ -1,2 +1,2 @@
-# Doconnect-capstone-wipro
+# Doconnect-capstone-Project
 quora project 
